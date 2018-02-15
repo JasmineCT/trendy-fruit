@@ -11,6 +11,8 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+
+  font-family: "PT Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -24,4 +26,32 @@ body {
 .img-flex {
   display: block;
   width: 100%;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.water-h2 {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.star-h2 {
+  font-family: "Gravitas One", sans-serif;
+}
+
+.persi-h2 {
+  font-family: Comfortaa, sans-serif;
+}
+
+.water-div {
+  background-color: #e97065;
+}
+
+.star-div {
+  background-color: #fbd25e;
+}
+
+.persi-div {
+  background-color: #e86033;
 }
